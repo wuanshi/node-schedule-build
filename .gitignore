@@ -1,0 +1,8 @@
+
+/.vscode
+/node_modules
+*.log
+.env
+.travis.yml
+LICENSE.txt
+
